@@ -1,0 +1,557 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "url": "https://xenpaid.com/",
+      "title": "XenPaid — Community & Advertising Platform",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Get rewarded for being part of a growing community"
+        },
+        {
+          "level": "H2",
+          "text": "Simple activities, one dashboard"
+        },
+        {
+          "level": "H3",
+          "text": "Partner ad tasks"
+        },
+        {
+          "level": "H3",
+          "text": "Daily check-in"
+        },
+        {
+          "level": "H3",
+          "text": "Story sharing"
+        },
+        {
+          "level": "H3",
+          "text": "Community rewards"
+        },
+        {
+          "level": "H2",
+          "text": "Start in four steps"
+        },
+        {
+          "level": "H3",
+          "text": "Create your account"
+        },
+        {
+          "level": "H3",
+          "text": "Complete daily activities"
+        },
+        {
+          "level": "H3",
+          "text": "Grow your community"
+        },
+        {
+          "level": "H3",
+          "text": "Withdraw in USDT"
+        },
+        {
+          "level": "H2",
+          "text": "Your account and wallet stay yours"
+        },
+        {
+          "level": "H2",
+          "text": "Questions, answered"
+        },
+        {
+          "level": "H2",
+          "text": "Join the XenPaid community today"
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": [
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Get started",
+          "href": "/register"
+        },
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "Create account",
+          "href": "/register"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "About us",
+          "href": "/about"
+        },
+        {
+          "text": "XNP Token",
+          "href": "/token"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Telegram channel",
+          "href": "https://t.me/xenpaid"
+        },
+        {
+          "text": "Terms & Conditions",
+          "href": "/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy"
+        }
+      ]
+    },
+    {
+      "name": "Login",
+      "url": "https://xenpaid.com/login",
+      "title": "XenPaid",
+      "headings": [],
+      "forms": [
+        {
+          "index": 0,
+          "action": null,
+          "method": null,
+          "id": "",
+          "name": null
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Username or User ID",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "",
+          "id": "",
+          "placeholder": "Enter your password",
+          "label": "",
+          "required": true,
+          "testId": ""
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "Sign In",
+          "href": ""
+        }
+      ],
+      "navLinks": []
+    },
+    {
+      "name": "Register",
+      "url": "https://xenpaid.com/register",
+      "title": "XenPaid",
+      "headings": [],
+      "forms": [
+        {
+          "index": 0,
+          "action": null,
+          "method": null,
+          "id": "",
+          "name": null
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "",
+          "placeholder": "",
+          "label": "",
+          "required": false,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Sponsor's username or ID",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Your full name",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "e.g. rahul99 (login & referral link)",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "",
+          "id": "",
+          "placeholder": "you@email.com",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "",
+          "id": "",
+          "placeholder": "e.g. +84912345678",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "",
+          "id": "",
+          "placeholder": "Min 6 characters",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "password",
+          "name": "",
+          "id": "",
+          "placeholder": "Repeat your password",
+          "label": "",
+          "required": true,
+          "testId": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "",
+          "id": "",
+          "placeholder": "",
+          "label": "I agree to the Terms & Conditions of XenPaid",
+          "required": false,
+          "testId": ""
+        }
+      ],
+      "buttons": [
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "🇻🇳 Việt",
+          "href": ""
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "🇰🇷 한국어",
+          "href": ""
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "🌎 Español",
+          "href": ""
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "🇬🇧 English",
+          "href": ""
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "Select your country",
+          "href": ""
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "Create Account",
+          "href": ""
+        }
+      ],
+      "navLinks": []
+    },
+    {
+      "name": "Signup alias",
+      "url": "https://xenpaid.com/signup",
+      "title": "XenPaid",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "404"
+        },
+        {
+          "level": "H2",
+          "text": "This page could not be found."
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": []
+    },
+    {
+      "name": "How it works",
+      "url": "https://xenpaid.com/how-it-works",
+      "title": "XenPaid",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "404"
+        },
+        {
+          "level": "H2",
+          "text": "This page could not be found."
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": []
+    },
+    {
+      "name": "FAQ",
+      "url": "https://xenpaid.com/faq",
+      "title": "XenPaid",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "404"
+        },
+        {
+          "level": "H2",
+          "text": "This page could not be found."
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": []
+    },
+    {
+      "name": "About",
+      "url": "https://xenpaid.com/about",
+      "title": "About us — XenPaid",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "About XenPaid"
+        },
+        {
+          "level": "H2",
+          "text": "What members do"
+        },
+        {
+          "level": "H2",
+          "text": "Our principles"
+        },
+        {
+          "level": "H2",
+          "text": "Company details"
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": [
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Get started",
+          "href": "/register"
+        },
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "Create account",
+          "href": "/register"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "About us",
+          "href": "/about"
+        },
+        {
+          "text": "XNP Token",
+          "href": "/token"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Telegram channel",
+          "href": "https://t.me/xenpaid"
+        },
+        {
+          "text": "Terms & Conditions",
+          "href": "/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "https://xenpaid.com/contact",
+      "title": "Contact — XenPaid",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Contact us"
+        }
+      ],
+      "forms": [],
+      "inputs": [],
+      "buttons": [],
+      "navLinks": [
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "About",
+          "href": "/about"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "Get started",
+          "href": "/register"
+        },
+        {
+          "text": "How it works",
+          "href": "/#how"
+        },
+        {
+          "text": "FAQ",
+          "href": "/#faq"
+        },
+        {
+          "text": "Create account",
+          "href": "/register"
+        },
+        {
+          "text": "Log in",
+          "href": "/login"
+        },
+        {
+          "text": "About us",
+          "href": "/about"
+        },
+        {
+          "text": "XNP Token",
+          "href": "/token"
+        },
+        {
+          "text": "Contact",
+          "href": "/contact"
+        },
+        {
+          "text": "Telegram channel",
+          "href": "https://t.me/xenpaid"
+        },
+        {
+          "text": "Terms & Conditions",
+          "href": "/terms"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy"
+        }
+      ]
+    }
+  ]
+}
